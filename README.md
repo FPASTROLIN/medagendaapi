@@ -70,3 +70,4 @@ dotnet restore
 
 # Execute o projeto
 dotnet run
+
